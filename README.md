@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Taller React Testing Library
 
 Pequeña aplicación de ejemplo para taller de react testing library desarrollada por Arturo Silva
 
